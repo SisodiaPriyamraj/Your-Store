@@ -503,6 +503,21 @@ main .section-hero {
   margin-bottom: 3.2rem;
 }
 
+.section-common--heading{
+  font-size: 40px;
+  text-align: center;
+  text-decoration: darkblue;
+  padding-bottom: 8px;
+}
+
+.section-common--subheading{
+  font-size: 20px;
+  text-align: center;
+  text-shadow: #1e1f23;
+  background-color: #e9f9d9;
+}
+
+
 .section-why--choose .text-align--right .why-choose--div {
   display: flex;
   flex-direction: column;
