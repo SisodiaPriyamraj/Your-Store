@@ -335,7 +335,7 @@ main .section-hero {
     letter-spacing: 0.2rem;
     font-size: 1.7rem;
     word-spacing: 0.2rem;
-    color: #003b99;
+    color: #002765;
     font-weight: 700;
   }
 
@@ -344,7 +344,7 @@ main .section-hero {
     line-height: 1.5;
     initial-letter: -0.2rem;
     text-transform: capitalize;
-    color: #003b99;
+    color: #f7f7a2;
     font-family: "Jost";
   }
 
@@ -685,8 +685,9 @@ footer {
 }
 
 .footer-container .content_1 img {
-  height: auto;
-  width: 15rem;
+  height: 100px;
+  width: 300px;
+  padding-left: 20px;
 }
 
 .footer-container {
@@ -711,11 +712,18 @@ footer {
   font-size: 1.4rem;
 }
 
-.footer-container .content_1 p,
+.footer-container .content_1 p{
+  color: #cccccc;
+  margin: 2.5rem 0;
+  font-size: 1.4rem;
+  padding-left: 20px;
+}
+
 .footer-container .content_4 p {
   color: #cccccc;
   margin: 2.5rem 0;
   font-size: 1.4rem;
+  padding-right: 20px;
 }
 
 .footer-container .content_4 input[type="email"] {
@@ -723,8 +731,8 @@ footer {
   border: none;
   color: var(--backgroundColor);
   outline: none;
-  padding: 1.4rem 0.8rem;
-  width: 100%;
+  padding-right: 20px;
+  width: 80%;
 }
 
 .footer-container .content_4 .f-mail {
@@ -746,8 +754,9 @@ footer {
 .f-design .f-design-txt {
   border-top: 1px solid var(--secondaryColor);
   padding: 1.6rem 0;
-  color: var(--secondaryColor);
+  color: rgb(159, 157, 157);
 }
+
 
 /***** End Footer Section *****/
 
@@ -1104,6 +1113,7 @@ footer {
 
   .section-hero .hero-heading {
     font-size: 4.4rem;
+    
   }
 
   footer {
