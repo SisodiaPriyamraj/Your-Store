@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "category": "Computers", 
+        "brand": "ExampleBrand", 
+        "price": 999.99,
+        "stock": 50,
+        "description": "Powerful laptop with a quad-core i7 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display.",
+        "image": "./image/laptop_images.jpeg"
+    }, 
+    {
+        "id": 2,
+        "name": "SmartPhone",
+        "category": "Mobiles", 
+        "brand": "Samsung", 
+        "price": 799.99,
+        "stock": 100,
+        "description": "Feature-rish Smartphone with 6.2-inch screen, 16MP dual camera, 128GB storage, and a 5000mAh battery",
+        "image": "../image/mobile_images.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Laptop",
+        "category": "Computers", 
+        "brand": "ExampleBrand", 
+        "price": 999.99,
+        "stock": 50,
+        "description": "Powerful laptop with a quad-core i7 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display.",
+        "image": "./image/laptop_images.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Laptop",
+        "category": "Computers", 
+        "brand": "ExampleBrand", 
+        "price": 999.99,
+        "stock": 50,
+        "description": "Powerful laptop with a quad-core i7 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display.",
+        "image": "./image/laptop_images.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Laptop",
+        "category": "Computers", 
+        "brand": "ExampleBrand", 
+        "price": 999.99,
+        "stock": 50,
+        "description": "Powerful laptop with a quad-core i7 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display.",
+        "image": "./image/laptop_images.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Laptop",
+        "category": "Computers", 
+        "brand": "ExampleBrand", 
+        "price": 999.99,
+        "stock": 50,
+        "description": "Powerful laptop with a quad-core i7 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display.",
+        "image": "./image/laptop_images.jpeg"
+    }
+]
